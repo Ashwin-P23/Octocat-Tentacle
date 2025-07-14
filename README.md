@@ -19,7 +19,7 @@ We decided to create one of Mona's Octocat tentacle. This tentacle has a full 36
 ![Covering](assets/cover.png)
 
 ## Stablizing Support
-![Schematic](assets/f_fit_support.png)
+![Support](assets/f_fit_support.png)
 
 ## Motor Casing
 ![Case](assets/motor_caseing.png)
