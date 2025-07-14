@@ -8,9 +8,6 @@ We decided to create one of Mona's Octocat tentacles. This tentacle boasts a ful
 - 4 Spools
 - 1 Covering
 - 4 Motor Casing
-- ?
-- ?
-- ?
 
 ## 16 Main Tentacle Linkages
 ![Tentacles](assets/main_links.png)
@@ -37,8 +34,8 @@ The spool, attached to the motor, holds the wound string and is the main point o
 
 | Component | Quantity |
 |-----------|----------|
-| ____ | # | 
-| ____ | # | 
+| Gear Motors | 4 | 
+| Fishing Line | 1 | 
 | ____ | # | 
 | ____ | # | 
 | ____ | # |
