@@ -1,5 +1,5 @@
 # Octocat Tentacle
-We decided to create one of Mona's Octocat tentacle. This tentacle has a full 360 range of motion, using fibbinochi sequence and the logarthimic spiral as a reference to create the tentacle linkages to create a 16 link tentacle using a 4 string to motor system to have full motion control. Using the logarithimic spiral as a reference, allowing the tentacle to be able to crab small object, and have a full range of grabbing/wrapping.
+We decided to create one of Mona's Octocat tentacles. This tentacle boasts a full 360-degree range of motion, utilizing a fibbinochi sequence and logarithmic spiral as a reference to craft the tentacle linkages. It achieves this with a 16-link tentacle, controlled by a 4-string motor system, ensuring full motion control. Using the logarithmic spiral as a reference, allowing the tentacle to be able to grab small objects, and have a full range of grabbing/wrapping.
 
 ## Materials/Properties
 - 16 Main Tentacle Linkages
@@ -14,13 +14,13 @@ We decided to create one of Mona's Octocat tentacle. This tentacle has a full 36
 
 ## 16 Main Tentacle Linkages
 ![Tentacles](assets/main_links.png)
-There are 16 linkages in the formation of the logarithmic spiral. This shows the tentacle in a fully flassid/curled position.
+The formation of the logarithmic spiral in the tentacle uses sixteen linkages, each contributing to its overall curvature and flexibility. This arrangement allows the tentacle to curl fully into a flaccid position, closely resembling the natural resting state found in many organisms. This design effectively demonstrates how mathematical patterns can be used to mimic biological forms
 
 ## Covering
 ![Cover](assets/covering.png)
 The covering holds the four motors, four spools, and the display in the front. This also works as a base for the tentacle.
 
-## Stablizing Support
+## Stabilizing Support
 ![Support](assets/f_fit_support.png)
 This works as a support piece to be able to attach the linkages to the covering without it being permanently attached.
 
