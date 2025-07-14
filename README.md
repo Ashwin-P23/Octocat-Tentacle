@@ -12,20 +12,25 @@ We decided to create one of Mona's Octocat tentacle. This tentacle has a full 36
 - ?
 - ?
 
-## 16 Main Tentacle LInkages
+## 16 Main Tentacle Linkages
 ![Tentacles](assets/main_links.png)
+There are 16 linkages in the formation of the logarithmic spiral. This shows the tentacle in a fully flassid/curled position.
 
 ## Covering
-![Covering](assets/cover.png)
+![Cover](assets/cover.png)
+The covering holds the four motors, four spools, and the display in the front. This also works as a base for the tentacle.
 
 ## Stablizing Support
 ![Support](assets/f_fit_support.png)
+This works as a support piece to be able to attach the linkages to the covering without it being permanently attached.
 
 ## Motor Casing
 ![Motor Casing](assets/motor_casing.png)
+This is to hold the motors under the covering and be able to glue to the bottom side of the covering to be able to attatched to the spool to wind/unwind fishing line to enable movement into the tentacle.
 
 ## Spool
 ![Spool](assets/spool.png)
+The spool, attached to the motor, holds the wound string and is the main point of contact of the fishing line from the linkages to the motor. The spool has a cylindrical offset hole, this is for wrapping the fishing line and for it not to fall off the spool if full unwinding takes place.
 
 # (BOM)
 ## Components
