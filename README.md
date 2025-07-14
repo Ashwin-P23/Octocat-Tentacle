@@ -10,7 +10,7 @@ We decided to create one of Mona's Octocat tentacles. This tentacle boasts a ful
 - 4 Motor Casing
 
 ## Physical Tentacle
-![Physical Tentacle](assets/physical_tentacle.jpeg)
+![Physical Tentacle](assets/tentacle_real.png)
 This shows the completed unpowered tentacle.
 
 ## 16 Main Tentacle Linkages
