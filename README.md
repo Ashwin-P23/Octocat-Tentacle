@@ -17,7 +17,7 @@ We decided to create one of Mona's Octocat tentacle. This tentacle has a full 36
 There are 16 linkages in the formation of the logarithmic spiral. This shows the tentacle in a fully flassid/curled position.
 
 ## Covering
-![Cover](assets/cover.png)
+![Cover](assets/covering.png)
 The covering holds the four motors, four spools, and the display in the front. This also works as a base for the tentacle.
 
 ## Stablizing Support
