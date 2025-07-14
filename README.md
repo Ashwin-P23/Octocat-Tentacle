@@ -49,3 +49,4 @@ The spool, attached to the motor, holds the wound string and is the main point o
 | Arduino Uno | 1 | 
 | Motor controllers | 2 | 
 | jumper wires | 24 |
+| TFT display | 1 |
