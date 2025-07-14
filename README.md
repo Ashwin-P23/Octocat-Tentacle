@@ -44,8 +44,8 @@ The spool, attached to the motor, holds the wound string and is the main point o
 
 | Component | Quantity |
 |-----------|----------|
-| Gear Motors | 4 | 
+| Geared Motors | 4 | 
 | Fishing Line | 1 | 
-| ____ | # | 
-| ____ | # | 
-| ____ | # |
+| Arduino Uno | 1 | 
+| Motor controllers | 2 | 
+| jumper wires | 24 |
