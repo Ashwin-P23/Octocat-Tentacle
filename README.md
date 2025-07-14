@@ -9,6 +9,10 @@ We decided to create one of Mona's Octocat tentacles. This tentacle boasts a ful
 - 1 Covering
 - 4 Motor Casing
 
+## Physical Tentacle
+![Physical Tentacle](assets/physical_tentacle.jpeg)
+This shows the completed unpowered tentacle.
+
 ## 16 Main Tentacle Linkages
 ![Tentacles](assets/main_links.png)
 The formation of the logarithmic spiral in the tentacle uses sixteen linkages, each contributing to its overall curvature and flexibility. This arrangement allows the tentacle to curl fully into a flaccid position, closely resembling the natural resting state found in many organisms. This design effectively demonstrates how mathematical patterns can be used to mimic biological forms
