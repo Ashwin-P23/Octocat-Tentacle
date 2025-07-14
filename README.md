@@ -13,10 +13,10 @@ We decided to create one of Mona's Octocat tentacle. This tentacle has a full 36
 - ?
 
 ## 16 Main Tentacle LInkages
-![Overall View](assets/main_links.png)
+![Tentacles](assets/main_links.png)
 
 ## Covering
-![PCB Layout](assets/cover.png)
+![Covering](assets/cover.png)
 
 ## Stablizing Support
 ![Schematic](assets/f_fit_support.png)
