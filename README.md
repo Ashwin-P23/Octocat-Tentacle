@@ -22,7 +22,7 @@ We decided to create one of Mona's Octocat tentacle. This tentacle has a full 36
 ![Support](assets/f_fit_support.png)
 
 ## Motor Casing
-![Case](assets/motor_caseing.png)
+![Motor Casing](assets/motor_casing.png)
 
 ## Spool
 ![Spool](assets/spool.png)
